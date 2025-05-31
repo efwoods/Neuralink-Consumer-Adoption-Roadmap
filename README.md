@@ -1,4 +1,4 @@
-# Neuralink_Consumer_Adoption_Roadmap
+# Neuralink Consumer Adoption Roadmap
 Estimated Plans to Scale Neuralink 
 
 Neuralink Consumer Adoption Roadmap
